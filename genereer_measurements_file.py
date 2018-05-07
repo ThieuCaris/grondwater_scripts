@@ -48,7 +48,7 @@ with open (target_measurement_file, 'w', newline='') as target_file:
 ##
 ### connect to the FTP
 ##ftp = FTP_TLS('hydromonitor.nl')
-##ftp.login(user='provincie_zeeland', passwd='29uyq87ml1')
+
 ##ftp.cwd('FieldLoggerData/Imported/')
 ##
 ### store the file
